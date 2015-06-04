@@ -53,7 +53,7 @@
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.eventcast" />
+                <category android:name="com.example" />
             </intent-filter>
         </receiver>
 
